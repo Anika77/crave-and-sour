@@ -1,0 +1,211 @@
+
+
+/* max-width: 1119px */
+@media (max-width: 1119px) {
+
+    .logo {
+        width: 124px;
+    }
+    .nav_cont {
+        display: flex;
+        flex-direction: column;
+        padding-left: 94px;
+    }
+
+        .nav-flex {
+          
+            width: 382px;
+        }
+    .text_cont h1 {
+        font-size: 45px;}
+      
+
+        .text_cont p{
+            font-size: 17px;
+        }
+    
+        .hero_container {
+            height: 43vh;
+            }
+    
+     .menu-grid {
+                display: grid;
+                grid-template-columns: 1fr;
+               
+                height: auto; 
+              }
+    
+    .menu-grid-right-b {
+        order: -1;
+    }
+    .menu-grid-left-b{
+        height: 350px;
+    }
+    .ftr-sec{
+        flex-wrap: wrap;
+    }
+}
+
+/* max-width: 853px */
+@media (max-width: 853px) {
+
+
+    .hero_container {
+        height: 41vh;
+        }
+
+    .text_cont h1 {
+        font-size: 36px;
+    }
+
+    .text_cont p{
+        font-size: 15px;
+    } 
+
+    .ftr-logo p {
+        font-size: 13px;
+    }
+
+    .Qlk-ftr {
+        width: 17%;
+    }
+    .cont-ftr{
+        width: 29%;
+    }
+    .loct-ftr{
+        width: 21%;
+    }
+    
+  }
+
+
+
+  /* max-width: 600px */
+  @media (max-width: 600px) {
+
+    
+
+    .hero_container {
+        height: 38vh;
+        }
+
+    .text_cont h1 {
+        font-size: 30px;
+    }
+
+    .text_cont p{
+        font-size: 15px;
+    } 
+
+
+    .grid-content {
+    
+        padding: 14px;
+        
+    }
+
+    .menu_cont {
+        
+        font-size: 19px;
+    }
+
+
+    .top-design h1 {
+       
+        font-size: 27px;
+        
+    }
+
+    .btn {
+       
+        
+        
+        font-size: 12px;}
+
+    
+    .ftr-logo {
+        width: 42%;
+    }
+    .Qlk-ftr {
+        width: 46%;
+    }
+    .cont-ftr{
+        width: 51%;
+    }
+    .loct-ftr{
+        width: 31%;
+    }
+    
+  }
+  /* max-width: 430px */
+  @media (max-width: 430px) {
+
+    
+
+
+
+    .hero_container {
+        height: 33vh;
+        }
+
+    .text_cont h1 {
+        font-size: 27px;
+    }
+
+    .text_cont p{
+        font-size: 11px;
+    } 
+
+    .btn {
+       
+        
+        
+        font-size: 12px;}
+
+    .grid-content {
+         margin: 23px;
+        padding: 14px;
+        
+    }
+
+    .menu_cont {
+        
+        font-size: 19px;
+    }
+
+
+    .top-design h1 {
+       
+        font-size: 27px;
+        
+    }
+
+    .logo-img {
+        height: 48px;
+        
+    }
+    .ftr-logo p {
+        font-size: 8px;
+    }
+    .ftr-logo {
+        width: 42%;
+    }
+    .Qlk-ftr {
+        width: 46%;
+    }
+    .cont-ftr{
+        width: 51%;
+    }
+    .icon-block p {
+        font-size: 10px;
+    }
+    .loct-ftr{
+        width: 31%;
+    }
+    .loct-icon p {
+        font-size: 11px;
+    }
+    .ftr-cpr p {
+        font-size: 9px;
+    }
+  }
